@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "RRR",
+        "RRR",
+        "RRR"
+    ],
+    
+    "key":
+    {
+        "R":
+        {
+            "item": "nm:norvium_ingot"
+        }
+    },
+    
+    "result":
+    {
+        "item": "nm:norvium_block",
+        "count": 1
+    }
+}
