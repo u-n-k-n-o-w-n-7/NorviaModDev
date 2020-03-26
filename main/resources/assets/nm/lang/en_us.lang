@@ -1,0 +1,21 @@
+//Items
+item.norvium_ingot.name=Norvium Ingot
+item.ruby.name=Ruby
+item.cobalt_ingot.name=Cobalt Ingot
+item.platinum_ingot.name=Platinum Ingot
+item.titanium_ingot.name=Titanium Ingot
+item.silver_ingot.name=Silver Ingot
+item.copper_ingot.name=Copper Ingot
+
+//Blocks
+tile.norvium_block.name=Norvium Block
+tile.ruby_block.name=Ruby Block
+tile.cobalt_ore.name=Cobalt Ore
+tile.platinum_ore.name=Platinum Ore
+tile.titanium_ore.name=Titanium Ore
+tile.silver_ore.name=Silver Ore
+tile.copper_ore.name=Copper Ore
+tile.norvium_ore.name=Norvium Ore
+
+//Tabs
+itemGroup.norviamodtab=NorviaMod
