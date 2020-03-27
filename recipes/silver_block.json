@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "RRR",
+        "RRR",
+        "RRR"
+    ],
+    
+    "key":
+    {
+        "R":
+        {
+            "item": "nm:silver_ingot"
+        }
+    },
+    
+    "result":
+    {
+        "item": "nm:silver_block",
+        "count": 1
+    }
+}

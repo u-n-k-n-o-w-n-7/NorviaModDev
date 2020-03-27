@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "R",
+        "R"
+    ],
+    
+    "key":
+    {
+        "R":
+        {
+            "item": "nm:copper_ingot"
+        }
+    },
+    
+    "result":
+    {
+        "item": "nm:copper_stick",
+        "count": 4
+    }
+}

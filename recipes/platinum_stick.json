@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "R",
+        "R"
+    ],
+    
+    "key":
+    {
+        "R":
+        {
+            "item": "nm:platinum_ingot"
+        }
+    },
+    
+    "result":
+    {
+        "item": "nm:platinum_stick",
+        "count": 4
+    }
+}

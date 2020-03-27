@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "RRR",
+        "RRR",
+        "RRR"
+    ],
+    
+    "key":
+    {
+        "R":
+        {
+            "item": "nm:cobalt_ingot"
+        }
+    },
+    
+    "result":
+    {
+        "item": "nm:cobalt_block",
+        "count": 1
+    }
+}

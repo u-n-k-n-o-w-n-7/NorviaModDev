@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "R##",
+        "RR#",
+        "#RT"
+    ],
+    
+    "key":
+    {
+        "R":
+        {
+            "item": "minecraft:iron_ingot"
+        },
+        
+        "T":
+        {
+            "item": "minecraft:stick"
+        }
+    },
+    
+    "result":
+    {
+        "item": "nm:saw",
+        "count": 8
+    }
+}

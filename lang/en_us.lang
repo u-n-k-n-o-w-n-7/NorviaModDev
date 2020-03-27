@@ -1,0 +1,51 @@
+//Items
+item.jigsaw.name=Jigsaw
+item.saw.name=Saw
+item.gear.name=Gear
+
+
+//Norvium
+tile.norvium_block.name=Norvium Block
+tile.norvium_ore.name=Norvium Ore
+item.norvium_ingot.name=Norvium Ingot
+item.norvium_stick.name=Norvium Stick
+
+//Ruby
+tile.ruby_block.name=Ruby Block
+item.ruby.name=Ruby
+tile.ruby_ore.name=Ruby Ore
+item.ruby_stick.name=Ruby Stick
+
+//Cobalt
+tile.cobalt_ore.name=Cobalt Ore
+item.cobalt_ingot.name=Cobalt Ingot
+tile.cobalt_block.name=Cobalt Block
+item.cobalt_stick.name=Cobalt Stick
+
+//Platinum
+tile.platinum_ore.name=Platinum Ore
+item.platinum_ingot.name=Platinum Ingot
+tile.platinum_block.name=Platinum Block
+item.platinum_stick.name=Platinum Stick
+
+//Titanium
+tile.titanium_ore.name=Titanium Ore
+item.titanium_ingot.name=Titanium Ingot
+tile.titanium_block.name=Titanium Block
+item.titanium_stick.name=Titanium Stick
+
+//Silver
+tile.silver_ore.name=Silver Ore
+item.silver_ingot.name=Silver Ingot
+tile.silver_block.name=Silver Block
+item.silver_stick.name=Silver Stick
+
+//Copper
+tile.copper_ore.name=Copper Ore
+item.copper_ingot.name=Copper Ingot
+tile.copper_block.name=Copper Block
+item.copper_stick.name=Copper Stick
+
+
+//Tabs
+itemGroup.norviamodtab=NorviaMod

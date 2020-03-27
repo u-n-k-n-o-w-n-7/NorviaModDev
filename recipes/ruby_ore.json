@@ -1,0 +1,22 @@
+{ 
+    "type": "minecraft:crafting_shapeless",
+
+    "ingredients": 
+    [
+
+    {
+      "item": "nm:ruby_ore"
+    },
+    
+    {
+      "item": "nm:jigsaw"
+    }
+    
+    ],
+
+    "result": 
+    {
+        "item": "nm:ruby",
+        "count": 9
+    }
+}
